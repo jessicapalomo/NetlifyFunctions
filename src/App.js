@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import React from "react";
+import Fetch from "./components/Fetch";
+import "./App.css";
 
 function App() {
   return (
